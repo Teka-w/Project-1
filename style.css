@@ -17,6 +17,7 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
+  width: 200vh;
 }
 .container {
   width: 1280px;
